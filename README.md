@@ -102,9 +102,7 @@ Do not hardcode assumptions forever. Model availability and pricing can change.
 
 Local estimates are useful as guardrails. In production, you still need real request logs, quotas, balances, token usage, latency, and billing visibility.
 
-QuotaCheap provides an OpenAI-compatible API gateway with those controls:
-
-https://www.quota.cheap?utm_source=github&utm_medium=readme&utm_campaign=ai-agent-budget-guard
+QuotaCheap provides an [OpenAI-compatible API gateway](https://www.quota.cheap?utm_source=github&utm_medium=readme&utm_campaign=ai-agent-budget-guard) with those controls.
 
 ## Security
 
